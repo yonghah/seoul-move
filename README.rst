@@ -1,0 +1,1 @@
+This repo briefly illustrates the data cleanup process for Seoul movement dataset and how to visualize it in Jupyter + KeplerGL.
